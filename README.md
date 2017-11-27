@@ -3,6 +3,7 @@ When I connect people on LinkedIn so lazy to click button by button and I create
 Step by step
 Using Chrome, Firefox, or Safari with developer mode
 
+0. Go this link https://www.linkedin.com/mynetwork/
 1. Inspect Element on your browser
 2. Chose the console tab
 3. Paste the jQuery code from clickLinkn.js code to console
